@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="tst" value="const test = 'test test test';&#10;" description="test live template" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
