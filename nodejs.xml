@@ -1,0 +1,10 @@
+<application>
+  <component name="NodeJsLocalInterpreterManager">
+    <local-interpreter path="C:/mt/Engine/Plugins/MountainJS/ThirdParty/TypescriptCompiler/Environment/node/node.exe">
+      <version-cache version="14.17.6" last-modified="1675787676243" />
+    </local-interpreter>
+    <local-interpreter path="C:/mt-fnf2/Engine/Plugins/MountainJS/ThirdParty/TypescriptCompiler/Environment/node/node.exe">
+      <version-cache version="14.17.6" last-modified="1665172215635" />
+    </local-interpreter>
+  </component>
+</application>

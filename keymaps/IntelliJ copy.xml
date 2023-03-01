@@ -1,0 +1,14 @@
+<keymap version="1" name="IntelliJ copy" parent="$default">
+  <action id="ExportToTextFile" />
+  <action id="RerunTests" />
+  <action id="SwitchHeaderSource">
+    <keyboard-shortcut first-keystroke="f10" />
+    <keyboard-shortcut first-keystroke="alt o" />
+  </action>
+  <action id="TypeScript.Restart.Service">
+    <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
+  <action id="XDebugger.MuteBreakpoints">
+    <keyboard-shortcut first-keystroke="shift ctrl alt 1" />
+  </action>
+</keymap>
