@@ -12,7 +12,7 @@
     <mask>*.json</mask>
     <mask>*.ini</mask>
     <mask>*.cpp, *h</mask>
-    <mask>*.ts,*.tsx,*.js</mask>
     <mask>*.h</mask>
+    <mask>*.ts,*.tsx,*.js</mask>
   </component>
 </application>
